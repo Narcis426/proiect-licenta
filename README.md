@@ -17,3 +17,5 @@ Partea cu producatori de la admin o poti sterge, iar acea parte cu specificatii 
 Oare ai putea face cumva ca in momentul in care ca si admin adaug un produs nou, sau editez detaliile sau il sterg sa se modifice si la user?
 
 As mai dori sa adaugi pe site mai multe produse din fiecare categorie si sa adaugi categoria de placi de baza si sa pui produse, iar profesoara cu care fac licenta mi-a spus sa adaug si componente pentru servere si un chatbot ai. 
+
+Ti-am atasat si un pdf cu mockup-ul pe care l-am facut sa vezi cam cum ar putea fi cosul
