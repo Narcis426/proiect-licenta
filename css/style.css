@@ -1,0 +1,90 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-color: #007BFF; 
+    color: white;
+    padding: 10px 0;
+    position: relative;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.top-bar { 
+    color: blue; 
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a, .login-button, .register-button {
+    color: white;
+    text-decoration: none;
+    padding: 10px 20px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.login-button, .register-button {
+    position: absolute;
+    right: 20px;
+    background-color: #007BFF;
+    border: none;
+}
+
+.register-button {
+    right: 140px;
+}
+
+.login-button:hover, .register-button:hover {
+    background-color: white;
+    color: black;
+}
+
+.featured-products {
+    background-color: #f1f1f1;
+    padding: 20px 0;
+}
+
+.featured-products .products div {
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.orbit-wrapper {
+    max-width: 800px;
+    margin: auto; 
+}
+
+.produse-recomandate img {
+    width: 200px; /* Adjust width as needed */
+    height: 200px; /* Adjust height as needed */
+    object-fit: cover; /* Ensures the image covers the entire area without distortion */
+}
