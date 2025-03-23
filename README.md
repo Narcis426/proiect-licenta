@@ -2,11 +2,11 @@ As dori niste functionalitati la magazinul online si sa infrumusetezi putin part
 
 La User as dori sa imi adaugi niste functionalitati cum ar fi:
 
-Inregistrare, deoarece momentan pe site este doar logare. Inregistrarea poti sa o faci cu nume, prenume, email, parola
-As dori daca poti sa imi faci filtrare a produselor pe categorii: brand, pret crescator sau descrescator, frecventa procesorului, capacitatea de stocare, tipul memoriei RAM
-Configurator PC. Mai exact pe pagina unui produs as vrea sa fie sugerate cateva componente compatibile.
-As dori un cos unde sa pot adauga produse
-Adaugare recenzie unde sa pot adauga si text si imagine
+1. Inregistrare, deoarece momentan pe site este doar logare. Inregistrarea poti sa o faci cu nume, prenume, email, parola
+2. As dori daca poti sa imi faci filtrare a produselor pe categorii: brand, pret crescator sau descrescator, frecventa procesorului, capacitatea de stocare, tipul memoriei RAM
+3. Configurator PC. Mai exact pe pagina unui produs as vrea sa fie sugerate cateva componente compatibile.
+4. As dori un cos unde sa pot adauga produse
+5. Adaugare recenzie unde sa pot adauga si text si imagine
 La admin pe langa functionalitatile deja existente, adaugare produs, modificare detalii produs, stergere produs as dori sa adaugi stergerea recenziilor. As dori bineinteles ca si la partea de admin sa existe cosul.
 
 Partea cu producatori de la admin o poti sterge, iar acea parte cu specificatii produse de la admin as vrea sa fie introdusa la produse, mai exact unde pot adauga produse as vrea sa pot adauga, modifica sau sterge imagini, detalii, specificatii.
