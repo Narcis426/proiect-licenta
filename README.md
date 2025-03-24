@@ -16,4 +16,6 @@ Oare ai putea face cumva ca in momentul in care ca si admin adaug un produs nou,
 
 As mai dori sa adaugi pe site mai multe produse din fiecare categorie si sa adaugi categoria de placi de baza si sa pui produse, cateogria de componente pentru servere si produse si un chatbot ai.
 
+As mai dori si niste explicatii referitor la functionalitati
+
 Pentru host folosesc XAMPP, iar pentru baze de date folosesc phpmyadmin.
